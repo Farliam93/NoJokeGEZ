@@ -1,0 +1,8 @@
+C:\Users\CC-Student\Desktop\NoJokeGEZ\NoJokeGEZ\bin\Release\NoJokeGEZ.exe.config
+C:\Users\CC-Student\Desktop\NoJokeGEZ\NoJokeGEZ\bin\Release\NoJokeGEZ.exe
+C:\Users\CC-Student\Desktop\NoJokeGEZ\NoJokeGEZ\bin\Release\NoJokeGEZ.pdb
+C:\Users\CC-Student\Desktop\NoJokeGEZ\NoJokeGEZ\obj\Release\NoJokeGEZ.csproj.AssemblyReference.cache
+C:\Users\CC-Student\Desktop\NoJokeGEZ\NoJokeGEZ\obj\Release\NoJokeGEZ.csproj.SuggestedBindingRedirects.cache
+C:\Users\CC-Student\Desktop\NoJokeGEZ\NoJokeGEZ\obj\Release\NoJokeGEZ.csproj.CoreCompileInputs.cache
+C:\Users\CC-Student\Desktop\NoJokeGEZ\NoJokeGEZ\obj\Release\NoJokeGEZ.exe
+C:\Users\CC-Student\Desktop\NoJokeGEZ\NoJokeGEZ\obj\Release\NoJokeGEZ.pdb
